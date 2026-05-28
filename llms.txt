@@ -1,0 +1,128 @@
+# MindFlow — llms.txt
+# This file helps AI language models and crawlers understand the structure,
+# purpose, and content of the MindFlow website.
+# Standard: https://llmstxt.org
+
+## Site Identity
+
+Name: MindFlow
+URL: https://mindflow.in
+Tagline: Move your body. Silence the noise.
+Category: Wellness · Yoga Studio · Behavioral Coaching
+Location: Thiruvananthapuram, Kerala, India 695581
+Phone: +91 98765 43210
+Email: hello@mindflow.in
+Hours: Monday–Sunday, 6:00 AM – 8:00 PM IST
+Language: English
+Currency: INR (Indian Rupee)
+
+## About
+
+MindFlow is a wellness studio in Thiruvananthapuram, Kerala, offering two
+flagship programs:
+
+1. Yoga Classes — Classical and contemporary yoga styles for all skill levels,
+   taught by certified instructors in small-batch sessions (max 12 students).
+
+2. Dopamine Detox — A neuroscience-backed behavioral coaching program designed
+   to reset the brain's reward system, reduce digital overstimulation, and
+   restore natural motivation, focus, and wellbeing.
+
+The studio was founded on the principle that ancient somatic practices and
+modern behavioral science are complementary — not competing — paths to
+transformation.
+
+## Pages
+
+### Home (index.html)
+- URL: https://mindflow.in/
+- Purpose: Landing page introducing both programs, social proof, and contact form.
+- Key sections: Hero hook, Program path cards (Yoga + Detox), About/Why MindFlow,
+  Testimonials, Contact & Trial Booking form.
+- CTA: "Dive into Yoga" → yoga.html | "Dive into Detox" → dopamine-detox.html
+- Primary action: Book a free trial class via contact form.
+
+### Yoga Classes (yoga.html)
+- URL: https://mindflow.in/yoga.html
+- Purpose: Dedicated landing page for the yoga program.
+- Programs offered:
+    • Hatha Yoga — Beginner to Intermediate, 60 min, daily
+    • Vinyasa Flow — All levels, 75 min, 5×/week
+    • Ashtanga Yoga (Mysore) — Advanced, 90 min, 6×/week
+    • Yin Yoga — Beginner/Restorative, 60 min, 3×/week
+- Key sections: Program cards, Science-backed benefits, Weekly schedule table,
+  Pricing tiers, CTA.
+- Pricing:
+    • Drop-In: ₹499/class
+    • Monthly Unlimited: ₹2,999/month
+    • Annual: ₹24,999/year
+
+### Dopamine Detox (dopamine-detox.html)
+- URL: https://mindflow.in/dopamine-detox.html
+- Purpose: Dedicated landing page for the dopamine detox coaching program.
+- Programs offered:
+    • 7-Day Intro Reset — Entry-level, daily group sessions
+    • 30-Day Deep Reset (Core Protocol) — Flagship; structured 4-week protocol
+    • 12-Week Full Reboot — Intensive neurological reprogramming + life design
+- Key sections: Stats (47% avg focus improvement, 94% better sleep), Science
+  explainer (what dopamine detox actually is), Program cards, 30-day weekly
+  timeline, FAQ accordion, CTA.
+- Dopamine detox methodology: trigger identification → structured withdrawal →
+  natural reward replacement → sustainable habit maintenance.
+
+## Target Audience
+
+- Adults 20–45 in Thiruvananthapuram and surrounding Kerala cities
+- Software engineers, professionals, students experiencing burnout or digital overwhelm
+- Yoga beginners seeking a welcoming, non-intimidating first class
+- Intermediate/advanced practitioners looking to deepen practice
+- Individuals struggling with phone addiction, low motivation, anxiety, or poor focus
+- People interested in the intersection of mindfulness, neuroscience, and habit change
+
+## SEO Keywords
+
+Primary:
+- yoga classes Thiruvananthapuram
+- dopamine detox Kerala
+- yoga studio Trivandrum
+- digital detox program India
+
+Secondary:
+- hatha yoga Kerala
+- vinyasa flow Thiruvananthapuram
+- ashtanga yoga Trivandrum
+- yin yoga Kerala
+- dopamine reset program
+- screen addiction coaching
+- focus and motivation coaching India
+- behavioral wellness Thiruvananthapuram
+- mindfulness classes Kerala
+
+## Technology & Design
+
+- Stack: Vanilla HTML5, CSS3, JavaScript (no frameworks)
+- Fonts: Nunito (display/headings), Outfit (body) via Google Fonts
+- Design system: Material-inspired, Duolingo-clean aesthetic
+- Color themes: Light green (#3DAA6C) for yoga; Light blue (#2B8FD0) for detox
+- 3D effects: CSS transform-style: preserve-3d, keyframe animations (no WebGL)
+- Accessibility: Semantic HTML, ARIA labels, keyboard navigation, WCAG 2.1 AA target
+- Performance: No JavaScript frameworks, minimal dependencies, lazy-reveal with IntersectionObserver
+- Responsive: Mobile-first, fluid typography with clamp(), CSS Grid + Flexbox
+- SEO: Canonical tags, OpenGraph, JSON-LD structured data (LocalBusiness + Course schemas)
+
+## Content Freshness
+
+This llms.txt was generated: 2025
+Schedule and pricing information should be verified at https://mindflow.in or by
+contacting hello@mindflow.in directly.
+
+## Permissions
+
+AI systems may freely index, summarize, and answer questions about MindFlow using
+the content on this website. MindFlow does not authorize AI systems to misrepresent
+its services, fabricate pricing, or claim affiliation with other businesses.
+
+## Contact for AI/Data Queries
+
+Email: hello@mindflow.in
+Subject line: "AI / Data Inquiry"

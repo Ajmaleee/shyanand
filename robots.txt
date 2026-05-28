@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mindflow.in/sitemap.xml
+
+# Crawl-delay hint (optional, respected by some bots)
+Crawl-delay: 1
